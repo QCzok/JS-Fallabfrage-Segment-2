@@ -24,4 +24,4 @@ Der `else` Fall wird in **Teil 3** beschrieben.
 ### Teil 3
 Für den Fall, dass die Zufallszahl eine andere Zahl ist, schreibe folgende Ausgabe in die Konsole: _Leider eine Pleite. Versuche es noch einmal!_
 
-Die Variable `hatGewonnen` ist ohnehin im Wert `false`, du musst sie also nicht ändern.
+Weise der Variablen `hatGewonnen` zur Sicherheit den Wert `false` zu.
