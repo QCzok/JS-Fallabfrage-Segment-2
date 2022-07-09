@@ -3,7 +3,7 @@
 ## Aufgabenstellung
 In dieser Aufgabe geht es um `if-else` Anweisungen.
 
-Generiere diesmal wieder eine Zufallszahl zwischen **1** und **5**.
+Generiere diesmal eine Zufallszahl zwischen **1** und **5**.
 
 Die Zufallszahl ist in diesem Spiel eine Losnummer. Der Spieler gewinnt einen Preis, wenn er eine Losnummer mit der Zahl **3** zieht.
 
